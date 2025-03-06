@@ -34,7 +34,7 @@
 | 0x06 | [큐](workbook/0x06.md) | ![100%](https://progress-bar.xyz/3/?scale=3&title=progress&width=500&color=babaca&suffix=/3) |
 | 0x07 | [덱](workbook/0x07.md) | ![100%](https://progress-bar.xyz/4/?scale=4&title=progress&width=500&color=babaca&suffix=/4) |
 | 0x08 | [스택의 활용(수식의 괄호 쌍)](workbook/0x08.md) | ![100%](https://progress-bar.xyz/5/?scale=5&title=progress&width=500&color=babaca&suffix=/5) |
-| 0x09 | [BFS](workbook/0x09.md) | ![100%](https://progress-bar.xyz/16/?scale=30&title=progress&width=500&color=babaca&suffix=/30) |
+| 0x09 | [BFS](workbook/0x09.md) | ![100%](https://progress-bar.xyz/17/?scale=30&title=progress&width=500&color=babaca&suffix=/30) |
 | 0x0A | DFS (문제집 X) | |
 | 0x0B | [재귀](workbook/0x0B.md) | ![100%](https://progress-bar.xyz/9/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 | 0x0C | [백트래킹](workbook/0x0C.md) | ![100%](https://progress-bar.xyz/18/?scale=20&title=progress&width=500&color=babaca&suffix=/20) |
