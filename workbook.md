@@ -55,7 +55,7 @@
 | 0x1B | [최소 신장 트리](workbook/0x1B.md) | ![100%](https://progress-bar.xyz/0/?scale=9&title=progress&width=500&color=babaca&suffix=/9) |
 | 0x1C | [플로이드 알고리즘](workbook/0x1C.md) | ![100%](https://progress-bar.xyz/0/?scale=15&title=progress&width=500&color=babaca&suffix=/15) |
 | 0x1D | [다익스트라 알고리즘](workbook/0x1D.md) | ![100%](https://progress-bar.xyz/0/?scale=14&title=progress&width=500&color=babaca&suffix=/14) |
-| 0x1E | [KMP](workbook/0x1E.md) | ![100%](https://progress-bar.xyz/0/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
+| 0x1E | [KMP](workbook/0x1E.md) | ![100%](https://progress-bar.xyz/2/?scale=8&title=progress&width=500&color=babaca&suffix=/8) |
 | 0x1F | [트라이](workbook/0x1F.md) | ![100%](https://progress-bar.xyz/0/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 | Appendix A | [문자열 기초](workbook/Appendix%20A.md) | ![100%](https://progress-bar.xyz/0/?scale=16&title=progress&width=500&color=babaca&suffix=/16) |
 | Appendix B | 동적 배열 (문제집 X) | |
