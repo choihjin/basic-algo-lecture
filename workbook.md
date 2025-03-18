@@ -44,7 +44,7 @@
 | 0x10 | [다이나믹 프로그래밍](workbook/0x10.md) | ![100%](https://progress-bar.xyz/19/?scale=44&title=progress&width=500&color=babaca&suffix=/44) |
 | 0x11 | [그리디](workbook/0x11.md) | ![100%](https://progress-bar.xyz/11/?scale=17&title=progress&width=500&color=babaca&suffix=/17) |
 | 0x12 | [수학](workbook/0x12.md) | ![100%](https://progress-bar.xyz/25/?scale=39&title=progress&width=500&color=babaca&suffix=/39) |
-| 0x13 | [이분탐색](workbook/0x13.md) | ![100%](https://progress-bar.xyz/10/?scale=21&title=progress&width=500&color=babaca&suffix=/21) |
+| 0x13 | [이분탐색](workbook/0x13.md) | ![100%](https://progress-bar.xyz/15/?scale=21&title=progress&width=500&color=babaca&suffix=/21) |
 | 0x14 | [투 포인터](workbook/0x14.md) | ![100%](https://progress-bar.xyz/0/?scale=11&title=progress&width=500&color=babaca&suffix=/11) |
 | 0x15 | [해시](workbook/0x15.md) | ![100%](https://progress-bar.xyz/1/?scale=10&title=progress&width=500&color=babaca&suffix=/10) |
 | 0x16 | [이진 검색 트리](workbook/0x16.md) | ![100%](https://progress-bar.xyz/2/?scale=7&title=progress&width=500&color=babaca&suffix=/7) |
